@@ -36,5 +36,7 @@ Frontend runs at: http://localhost:3000
 🔗 API Endpoints
 
 Add Organization → POST /organizations
+
 Add Employee → POST /employees?name=...&role=...&email=...&orgName=...
+
 Get Employees by Org → GET /employees/byOrg/{orgName}
