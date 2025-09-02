@@ -20,9 +20,12 @@ react-router-dom
 axios
 bootstrap (optional for styling)
 
+npm install react react-dom react-router-dom axios bootstrap
+
+
 Steps
 Navigate to frontend folder:
-cd frontend
+cd OrganizationEmployeesDemoApp
 
 Install dependencies:
 npm install
