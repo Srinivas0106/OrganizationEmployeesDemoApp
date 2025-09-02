@@ -3,9 +3,12 @@ OrganizationEmployeesDemoApp - FrontEnd
 
 ⚡ Quick Run Order: 
 
-Start MySQL
+Start MySQL, 
+
 Run Backend (mvn spring-boot:run)
+
 Run Frontend (npm start)
+
 Open UI → http://localhost:3000
 
 🎨 Running the Frontend (React)
@@ -25,6 +28,7 @@ Install dependencies:
 npm install
 
 Start app:
+
 npm start
 
 Frontend runs at: http://localhost:3000
